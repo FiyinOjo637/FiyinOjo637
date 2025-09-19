@@ -1,4 +1,4 @@
-## Hola 👋 , I'm [Fiyinfoluwa Ojo (GHOST)!]([https://coderavi.github.io/my-protfolio/](https://fiyinxpertdev.42web.io/)👋
+## Hola 👋 , I'm [Fiyinfoluwa Ojo!](https://fiyinxpertdev.42web.io/)
 
 <p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
