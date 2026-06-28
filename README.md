@@ -8,10 +8,11 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
 
-[![GitHub followers](https://img.shields.io/github/followers/FiyinOjo637?label=Follow&style=social)](https://github.com/FiyinOjo637)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ojo%20Fiyinfoluwa-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/ojo-fiyinfoluwa-411563237](https://www.linkedin.com/in/fiyinojo/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-fiyinxpertdev.42web.io-2648ff?style=flat-square&logo=google-chrome)](https://fiyinxpertdev.42web.io/)  
+[![GitHub followers](https://img.shields.io/github/followers/FiyinOjo637?label=Follow&style=social)](https://github.com/FiyinOjo637)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ojo%20Fiyinfoluwa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fiyinojo/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-fiyinxpertdev.42web.io-2648ff?style=flat-square&logo=google-chrome)](https://fiyinxpertdev.42web.io/)
 ---
 
 ## 👨‍💻 About Me  
