@@ -48,7 +48,7 @@ I enjoy turning complex problems into simple, elegant solutions and learning new
 
 ## 🚧 Projects & Experience  
 
-- **Full-Stack Developer Intern — Quest Schools** *(Aug 2022 – Present)*  
+- **Full-Stack Developer — Quest Schools** *(Aug 2022 – Present)*  
   Built school platforms (official site, admissions system, CBT exam system) using **PHP, Laravel, Node.js, React, MySQL**.  
   Focus: performance, user experience, and scalability.  
 
